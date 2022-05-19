@@ -8,3 +8,4 @@ Further research can include:
 - Incorporating additional variable, like sector momentum and news activity, for multivariable linear regression
 - Further halving the covariance formula to derive a new equation for gradient descent
 - Running simulations to find the best epsilon coefficient for a moderate stock portfolio
+- Integration into Proptech assessments for risk analysis
